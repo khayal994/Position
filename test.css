@@ -1,0 +1,28 @@
+body{
+    background-image: url(d69bb334c2dd338893866f659ec492ee.jpg);
+}
+h1{
+    position: sticky;
+    top: 0;
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+}
+.s{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+.x{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+.b{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
